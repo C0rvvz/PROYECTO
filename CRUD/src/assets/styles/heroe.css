@@ -1,0 +1,15 @@
+.tw-heroe {
+    border: 1px solid color white;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .tw-heroe-header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .tw-heroe-info {
+    font-size: 1.2em;
+  }
+  
